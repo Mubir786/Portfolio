@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mubir786/Portfolio.git/static/css/main.27dea907.css",
+    "main.js": "/Mubir786/Portfolio.git/static/js/main.accdc396.js",
+    "static/js/453.438d9e50.chunk.js": "/Mubir786/Portfolio.git/static/js/453.438d9e50.chunk.js",
+    "static/media/1000061829.jpg": "/Mubir786/Portfolio.git/static/media/1000061829.d2c25384dda15d47c89c.jpg",
+    "index.html": "/Mubir786/Portfolio.git/index.html",
+    "main.27dea907.css.map": "/Mubir786/Portfolio.git/static/css/main.27dea907.css.map",
+    "main.accdc396.js.map": "/Mubir786/Portfolio.git/static/js/main.accdc396.js.map",
+    "453.438d9e50.chunk.js.map": "/Mubir786/Portfolio.git/static/js/453.438d9e50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27dea907.css",
+    "static/js/main.accdc396.js"
+  ]
+}
